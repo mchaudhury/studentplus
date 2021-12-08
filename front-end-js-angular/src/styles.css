@@ -1,0 +1,46 @@
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css";
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css";
+
+body {
+  margin-top: none;
+  background: black;
+  background-image: "";
+}
+.card {
+  border: 5px;
+  -webkit-box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 2px 0 rgba(36, 5, 5, 0.05);
+  margin-bottom: 30px;
+  background-color: gold;
+}
+.bg-dark {
+  background-color: maroon;
+}
+.w-60 {
+  width: 100px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 5px;
+  font-weight: 500;
+  font-family: cursive;
+}
+/* .social-links li a {
+  -webkit-border-radius: 50%;
+  background-color: rgba(185, 206, 89, 0.85);
+  border-radius: 50%;
+  color: rgb(209, 118, 32);
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  width: 30px;
+  font-size: 12px;
+} */
+a {
+  color: red;
+}
